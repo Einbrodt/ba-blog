@@ -39,11 +39,6 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     name = 'Beiträge'
     url = '/posts/'
     weight = 20
-  [[Languages.de-de.menu.main]]
-    pageRef="about"
-    name = 'Über mich'
-    url = '/about/'
-    weight = 30
 
 [Languages.de-de.params]
   sitename = "BA-föG Blog"
