@@ -1,9 +1,9 @@
 {
-    "name": "Der BA-föG Blog",
-    "short_name": "Der BA-föG Blog",
-    "start_url": "http://localhost:1313/ba-blog/",
+    "name": "sitename",
+    "short_name": "sitename",
+    "start_url": "/",
     "theme_color": "#434648",
-    "background_color": "#ffffff",
+    "background_color": "#fff",
     "display": "standalone",
     "icons": [
         {

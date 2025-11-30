@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ba-blog/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/ba-blog/</loc>
+    <lastmod>2025-11-30T12:35:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ba-blog/posts/gesetze/</loc>
+    <lastmod>2025-11-30T12:35:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ba-blog/posts/</loc>
+    <lastmod>2025-11-30T12:35:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ba-blog/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/ba-blog/tags/</loc>
   </url>
