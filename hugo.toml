@@ -5,7 +5,7 @@ title = 'Der BA-föG Blog'
 theme = 'hugo-blog-awesome'
 [[params.socialIcons]]
 name = "Rss"
-url = "index.xml"
+url = "/ba-blog/index.xml"
 
 [[params.socialIcons]]
 name = "github"
