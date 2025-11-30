@@ -39,6 +39,11 @@ jobs:
         with:
           path: ./public
 
+      - name: Upload posts
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public/posts
+
   deploy:
     runs-on: ubuntu-latest
     needs: build
