@@ -1,0 +1,20 @@
+{
+    "name": "Der BA-föG Blog",
+    "short_name": "Der BA-föG Blog",
+    "start_url": "http://localhost:1313/ba-blog/",
+    "theme_color": "#434648",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/ba-blog/icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/ba-blog/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

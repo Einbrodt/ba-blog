@@ -1,0 +1,4 @@
+baseURL = 'https://einbrodt.github.io/ba-blog/'
+languageCode = 'en-us'
+title = 'Der BA-föG Blog'
+theme = 'hugo-blog-awesome'
